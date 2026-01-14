@@ -9,9 +9,10 @@
     <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">vite build</PackageJsonScriptsBuild>
     <PackageJsonScriptsLint Condition="$(PackageJsonScriptsLint) == ''">eslint .</PackageJsonScriptsLint>
     <PackageJsonScriptsPreview Condition="$(PackageJsonScriptsPreview) == ''">vite preview</PackageJsonScriptsPreview>
+    <PackageJsonDependenciesAzureMsalNode Condition="$(PackageJsonDependenciesAzureMsalNode) == ''">^3.8.4</PackageJsonDependenciesAzureMsalNode>
     <PackageJsonDependenciesReact Condition="$(PackageJsonDependenciesReact) == ''">^19.0.0</PackageJsonDependenciesReact>
     <PackageJsonDependenciesReactDom Condition="$(PackageJsonDependenciesReactDom) == ''">^19.0.0</PackageJsonDependenciesReactDom>
-    <PackageJsonDevdependenciesAzureStaticWebAppsCli Condition="$(PackageJsonDevdependenciesAzureStaticWebAppsCli) == ''">^2.0.4</PackageJsonDevdependenciesAzureStaticWebAppsCli>
+    <PackageJsonDevdependenciesAzureStaticWebAppsCli Condition="$(PackageJsonDevdependenciesAzureStaticWebAppsCli) == ''">^2.0.7</PackageJsonDevdependenciesAzureStaticWebAppsCli>
     <PackageJsonDevdependenciesEslintJs Condition="$(PackageJsonDevdependenciesEslintJs) == ''">^9.19.0</PackageJsonDevdependenciesEslintJs>
     <PackageJsonDevdependenciesTypesReact Condition="$(PackageJsonDevdependenciesTypesReact) == ''">^19.0.8</PackageJsonDevdependenciesTypesReact>
     <PackageJsonDevdependenciesTypesReactDom Condition="$(PackageJsonDevdependenciesTypesReactDom) == ''">^19.0.3</PackageJsonDevdependenciesTypesReactDom>
