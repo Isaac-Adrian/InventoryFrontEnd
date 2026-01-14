@@ -1,0 +1,7 @@
+C:\Users\jmfikwi\Downloads\ITS Academy\week15\InventoryProject\InventoryFrontEnd\dist\InventoryApi.deps.json
+C:\Users\jmfikwi\Downloads\ITS Academy\week15\InventoryProject\InventoryFrontEnd\dist\InventoryApi.runtimeconfig.json
+C:\Users\jmfikwi\Downloads\ITS Academy\week15\InventoryProject\InventoryFrontEnd\dist\appsettings.Development.json
+C:\Users\jmfikwi\Downloads\ITS Academy\week15\InventoryProject\InventoryFrontEnd\dist\appsettings.json
+C:\Users\jmfikwi\Downloads\ITS Academy\week15\InventoryProject\InventoryFrontEnd\dist\InventoryApi.staticwebassets.endpoints.json
+C:\Users\jmfikwi\Downloads\ITS Academy\week15\InventoryProject\InventoryFrontEnd\dist\InventoryApi.exe
+C:\Users\jmfikwi\Downloads\ITS Academy\week15\InventoryProject\InventoryFrontEnd\obj\Debug\inventoryfrontend.esproj.CoreCompileInputs.cache
